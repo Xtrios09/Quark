@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Devicon (MIT License): https://github.com/devicons/devicon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <path android:pathData="M112.484 112.484H15.516V15.516h96.968L64 64Zm0 0">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear" android:startX="112.4846" android:startY="15.5147" android:endX="15.5152" android:endY="112.484">
+                <item android:color="#FFE44857" android:offset="0.003"/>
+                <item android:color="#FFC711E1" android:offset="0.469"/>
+                <item android:color="#FF7F52FF" android:offset="1"/>
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

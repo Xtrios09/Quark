@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Devicon (MIT License): https://github.com/devicons/devicon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group android:translateX="0.5" android:translateY="5.6287" android:rotation="0" android:scaleX="0.248" android:scaleY="0.248">
+        <path android:pathData="M87.702,137.67L0,0L63.25,0L119.02,88.646L175.24,0L235.79,0L143.98,137.67L143.98,224.95L87.702,224.95Z" android:fillColor="#FF8A94A6"/>
+    </group>
+    <path android:pathData="m82.428 49.149h-25.266l-5.1388 12.408h-11.188l23.659-55.798h11.444l22.699 55.798h-11.956l-4.2525-12.408zm-4.197-11.14-7.7455-20.476-8.6412 20.476z" android:fillColor="#FFCB171E"/>
+    <group android:translateX="0.5" android:translateY="5.6287" android:rotation="0" android:scaleX="0.248" android:scaleY="0.248">
+        <path android:pathData="M87.701,250.18L87.701,470.65L135,470.65L135,318.57L184.51,420.79L221.74,420.79L272.94,314.98L272.94,470.6L318.32,470.6L318.32,250.18L256.36,250.18L201.38,349.88L149.02,250.18Z" android:fillColor="#FF8A94A6"/>
+    </group>
+    <group android:translateX="0.5" android:translateY="5.6287" android:rotation="0" android:scaleX="0.248" android:scaleY="0.248">
+        <path android:pathData="M512,422.74L512,422.74L395.64,422.74L395.64,250.12L347.44,250.12L347.44,469.65L512,469.65Z" android:fillColor="#FF8A94A6"/>
+    </group>
+</vector>

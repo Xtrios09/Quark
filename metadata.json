@@ -1,0 +1,6 @@
+{
+  "name": "Quark",
+  "description": "Hackable tablet code editor and terminal running 100% on-device",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Completely offline, Fast, Native, Modern"]
+}

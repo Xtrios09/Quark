@@ -1,0 +1,60 @@
+# ---- My entries ----
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+
+# ---- Additions ----
+
+# Build output in every module (app/build, terminal/build, ...)
+build/
+
+# Built installers
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+
+# Signing keys and secrets (never commit these)
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+google-services.json
+
+# Native build output (your :terminal C shim)
+.cxx/
+**/.cxx/
+**/.externalNativeBuild/
+
+# Generated files
+bin/
+gen/
+out/
+*.class
+hs_err_pid*
+
+# Logs and temp
+*.log
+*.tmp
+.idea/deploymentTargetSelector.xml
+.idea/deploymentTargetDropDown.xml
+.idea/other.xml
+
+# OS junk
+Thumbs.db
+Desktop.ini

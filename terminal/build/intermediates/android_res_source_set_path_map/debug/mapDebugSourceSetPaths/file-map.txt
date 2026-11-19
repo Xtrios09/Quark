@@ -1,0 +1,9 @@
+com.quark.terminal-pngs-0 C:\Users\Abhi\Desktop\Quark\terminal\build\generated\res\pngs\debug
+com.quark.terminal-updated_navigation_xml-1 C:\Users\Abhi\Desktop\Quark\terminal\build\generated\updated_navigation_xml\debug
+com.quark.terminal-mergeDebugResources-2 C:\Users\Abhi\Desktop\Quark\terminal\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.quark.terminal-mergeDebugResources-3 C:\Users\Abhi\Desktop\Quark\terminal\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.quark.terminal-debug-4 C:\Users\Abhi\Desktop\Quark\terminal\build\intermediates\merged_res\debug\mergeDebugResources
+com.quark.terminal-debug-5 C:\Users\Abhi\Desktop\Quark\terminal\build\intermediates\packaged_res\debug\packageDebugResources
+com.quark.terminal-debug-6 C:\Users\Abhi\Desktop\Quark\terminal\src\debug\res
+com.quark.terminal-main-7 C:\Users\Abhi\Desktop\Quark\terminal\src\main\res
+gradleHome-0 C:\Users\Abhi\.gradle
